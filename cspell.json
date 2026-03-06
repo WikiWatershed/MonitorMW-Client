@@ -3,7 +3,26 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["Referer", "Damiano"],
+  "words": [
+    "Damiano",
+    "datavalue",
+    "Geleskie",
+    "get_localzone",
+    "ggplot",
+    "httr",
+    "jsonlite",
+    "monitormw",
+    "Referer",
+    "resultid",
+    "resultuuid",
+    "samplingfeaturecode",
+    "status_forcelist",
+    "timespec",
+    "usetz",
+    "valuedatetime",
+    "valuedatetimeutcoffset",
+    "variablecode"
+  ],
   "ignoreWords": [],
   "import": []
 }

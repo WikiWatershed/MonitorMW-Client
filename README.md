@@ -1,6 +1,6 @@
 # MonitorMW-Client
 
-This repo hold example notebooks for accessing data stored on [Monitor My Watershed](https://monitormywatershed.org/) through the time series visualization (TSV) endpoint using both R and python.
+This repo hold example notebooks for accessing data stored on [Monitor My Watershed](https://monitormywatershed.org/) through the time series visualization (TSV) endpoint using both [R](https://github.com/WikiWatershed/MonitorMW-Client/blob/main/GetMonitorMyWatershed_R.ipynb) and [python](https://github.com/WikiWatershed/MonitorMW-Client/blob/main/GetMonitorMyWatershedData_Python.ipynb).
 The TSV endpoint was **not** intended to be an external data access point or API, but can be used for that purpose.
 
 The example notebooks in this repository were originally hosted in two [GitHub Gists under Sara Damiano's account](https://gist.github.com/SRGDamia1).
